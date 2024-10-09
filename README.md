@@ -6,7 +6,6 @@ Instalar a pasta LOJA e abri la no VS code ou noutro programa e correr o codigo 
 
 
 # O Codigo
-O ficheiro html esta na pasta LOJA com o nome "index.html". O ficheiro JS esta na pasta API e o seu nome é "
-O 
+O ficheiro html esta na pasta LOJA com o nome "index.html". O ficheiro JS esta na pasta API e o seu nome é tambem "index.js".
 
 
